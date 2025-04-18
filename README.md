@@ -1,2 +1,0 @@
-# oshdod
-Business website
